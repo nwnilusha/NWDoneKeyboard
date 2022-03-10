@@ -1,0 +1,16 @@
+PODS:
+  - NWDoneKeyboard (0.1.0)
+
+DEPENDENCIES:
+  - NWDoneKeyboard (from `../`)
+
+EXTERNAL SOURCES:
+  NWDoneKeyboard:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  NWDoneKeyboard: a1c6f8fc8a2bd6501e951edabb4ed55cab0d3170
+
+PODFILE CHECKSUM: 0d8eabe8ecaa9c78e41ecf1efab9c62fd09955d9
+
+COCOAPODS: 1.11.2

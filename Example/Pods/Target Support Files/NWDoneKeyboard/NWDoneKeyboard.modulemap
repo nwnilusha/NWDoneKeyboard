@@ -1,0 +1,6 @@
+framework module NWDoneKeyboard {
+  umbrella header "NWDoneKeyboard-umbrella.h"
+
+  export *
+  module * { export * }
+}
